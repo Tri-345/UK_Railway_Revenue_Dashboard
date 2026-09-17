@@ -35,6 +35,9 @@ An interactive Power BI dashboard analyzing UK railway ticket transactions, cove
 - Power BI (data modeling, DAX, visualization)
 - Excel/CSV (data preparation)
 
+## Results and Findings
+Total revenue reached £741.92K across 32K tickets, led by London Kings Cross and Liverpool Lime Street as the top-earning departure stations. Service reliability was strong, with an 86.8% on-time rate and only 3.5% refund rate, while weather was the leading cause of delays, far ahead of signal failures and technical issues. Passengers favored Online purchases (58.51%) over Station purchases (41.49%), paid mostly by Credit Card (60.46%), and Advance tickets (55.48%) in Standard class (90.34%) were the most common choices. Railcard usage was low, with 66.09% of journeys having no railcard applied. These findings point to weather-related delay mitigation and continued investment in top-performing stations as the clearest priorities for improving both revenue and service reliability.
+
 ## Skills Demonstrated
 Data cleaning, DAX measures, dashboard design, KPI reporting, data storytelling
 
